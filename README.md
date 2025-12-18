@@ -15,7 +15,7 @@ Developed as part of the **Management Information System (MIS)** course at **Daf
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](আপনার_ফাইনাল_ড্যাশবোর্ডের_স্ক্রিনশটের_লিংক_এখানে_দিন)
+![Dashboard Screenshot](Shishu-Mela-Dashboard-Power-BI.png)
 *(A snapshot of the main operational dashboard featuring the Coral & Teal theme)*
 
 ---
